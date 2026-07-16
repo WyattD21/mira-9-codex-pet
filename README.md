@@ -1,6 +1,6 @@
 # Mira-9 Codex Pet
 
-Mira-9 is an original chibi cybernetic-operative pet for Codex. She uses the Codex v2 pet atlas format and includes idle, directional movement, interaction, work, status, and look-direction animations.
+Mira-9 is an unofficial fan-made Codex pet inspired by Major Motoko Kusanagi from *Ghost in the Shell*. She uses the Codex v2 pet atlas format and includes idle, directional movement, interaction, work, status, and look-direction animations.
 
 ## Quick installation
 
@@ -55,4 +55,4 @@ Delete the `~/.codex/pets/mira-9/` directory and restart Codex.
 
 This repository contains only the distributable pet files and installation documentation. It does not include API keys, authentication tokens, environment files, local filesystem paths, source-generation prompts, or personal contact information.
 
-Mira-9 is an original character and is not affiliated with or endorsed by any third-party franchise.
+This fan-made pet is not affiliated with, authorized by, or endorsed by the creators, publishers, or rights holders of *Ghost in the Shell*.
